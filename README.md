@@ -1,6 +1,6 @@
 # Prelaunch (for dsi.cfw.guide)
 
-# It is better to use dsi.cfw.guide, starting from [here](https://dsi.cfw.guide/get-started.html)
+# It's better to use dsi.cfw.guide, as it's updated as soon as there is a change and is quite simple to follow. Get started from [here](https://dsi.cfw.guide/get-started.html)
 
 ![A screenshot of Prelaunch](https://raw.githubusercontent.com/GriShafir/Prelaunch/main/screenshots/prelaunch.png)
 
